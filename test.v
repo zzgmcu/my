@@ -1,6 +1,7 @@
 module dddd (
     input clk,
-    input rst
+    input rst,
+    output c
 );
     
 endmodule
