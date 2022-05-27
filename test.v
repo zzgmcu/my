@@ -1,5 +1,6 @@
 module dddd (
-    input clk
+    input clk,
+    input rst
 );
     
 endmodule
